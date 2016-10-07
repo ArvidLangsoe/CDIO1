@@ -1,7 +1,7 @@
 package game;
 
 public class Die {
-
+	//Max værdi for terningen og værdien af terningen.
 	public final int MAX_VALUE;
 	private int value;
 
